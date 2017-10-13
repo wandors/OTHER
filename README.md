@@ -1,1 +1,1 @@
-# OTHER
+# Setting PyCharm
